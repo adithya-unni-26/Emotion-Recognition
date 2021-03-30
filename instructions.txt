@@ -1,0 +1,8 @@
+to run the emotion detector-
+python C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\emotion_detector.py --c ‪C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\haarcascade_frontalface_default.xml --model C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\checkpoints\epochs_15.hdf5
+to run the test_recognizer-
+python C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\test_recognizer.py --m C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\checkpoints\epochs_15.hdf5
+to run the trin_recognizer-
+python C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\train_recognizer.py --checkpoints C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\checkpoints
+to build_datasets-
+python C:\Users\mvgop\Desktop\Emotion_Recognition-master\Emotion_Recognition-master\build_dataset.py
