@@ -8,7 +8,7 @@ Implement a VGG-like network capable of predicting emotion and facial expression
 * Built a real-time application in detecting a person's emotion/facial expression.
 
 ## Packages Used
-* Python 3.6
+* Python 3.7
 * [OpenCV](https://docs.opencv.org/3.4.4/) 4.0.0
 * [keras](https://keras.io/) 2.1.0
 * [Tensorflow](https://www.tensorflow.org/install/) 1.13.0
